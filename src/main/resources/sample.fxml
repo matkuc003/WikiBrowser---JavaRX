@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.web.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="384.0" prefWidth="447.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+    <children>
+        <ComboBox id="comboBox" fx:id="comboBox" layoutX="14.0" layoutY="66.0" prefHeight="25.0" prefWidth="368.0" />
+        <TextField id="textField" fx:id="textField" layoutX="14.0" layoutY="14.0" prefHeight="25.0" prefWidth="368.0" promptText="Wpisz fraze" />
+
+    </children>
+</AnchorPane>
